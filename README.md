@@ -1,2 +1,2 @@
 # greetings-humanoid
-my first git
+second version of my first git
